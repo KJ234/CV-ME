@@ -132,6 +132,11 @@ body {
   margin-bottom: 50px;
 }
 
+.about img {
+  width: 200px;
+  height: 100px;
+}
+
 .about:last-child {
   margin-bottom: 0;
 }
